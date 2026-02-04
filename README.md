@@ -1,5 +1,5 @@
 # Kali Workflow Automation
-### Owner : Nimsara Karunarathna (ICT Undergraduate @ UOM)
+### Owner : Nimsara Karunarathna (IT Undergraduate @ UOM)
 
 This repository tracks the evolution of my Kali Linux environment and automation scripts as I progress through my 24-month Cybersecurity Roadmap.
 

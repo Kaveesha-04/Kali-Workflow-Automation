@@ -12,3 +12,6 @@
 * **Commands Used**: `ls` to find the file, `cat -- "--sapces in this filename--"` to read it.
 * **Password**: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
+### Level 3 -> 4
+* **Commands Used**: `ls` to find the file, `cd inhere` to open the directory, 	`ls -a` to see the hidden file, `cat ...Hidden-To-Find` to read it. 
+* **Password**: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

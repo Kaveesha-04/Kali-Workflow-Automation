@@ -7,3 +7,8 @@
 ### Level 1 -> 2
 * **Command Used**: `ls` to find the file, `cat ./-` to read it.
 * **Password**: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+### Level 2 -> 3
+* **Command Used**: `ls` to find the file, `cat -- "--sapces in this filename--"` to read it.
+* **Password**: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
